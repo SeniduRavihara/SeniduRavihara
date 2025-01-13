@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Senidu+Ravihara!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from SriLanka</h3>
+<h3 align="center">👨‍💻 I am an Undergraduate Software Engineering Student at the University of Sri Jayewardenepura, Sri Lanka</h3>
 
 <br/>
 
