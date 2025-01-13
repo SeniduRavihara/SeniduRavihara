@@ -4,19 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Senidu+Ravihara!;" />
 </h1>
 
-<h3 align="center">👨‍💻 I am an Undergraduate Software Engineering Student at the University of Sri Jayewardenepura, Sri Lanka</h3>
+<h3 align="center">A passionate software developer from SriLanka</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 Currently developing a web platform for seamless online business interactions
  
- 🌱 I’m currently learning **React, Firebase, AWS**
+ 🌱 I’m currently learning **React, Laravel, Firebase, AWS**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/SeniduRavihara/SeniduRavihara/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **The first computer bug was an actual moth found in a computer in 1947**
 
  </div>
  
